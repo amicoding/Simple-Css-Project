@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.box{
+    background-color: rgb(210, 231, 250);
+   border: 2px solid green;
+    width: 500px;
+    height: 450px;
+    position: relative;
+    top: 40px;
+    left: 28%;
+
+    
+}
+
+.box1{
+    background-color: white;
+    border-radius: 10px;
+
+width: 200px;
+height: 200px;
+position: absolute;
+right: 18px;
+top: 10px;
+}
+
+.box1 img{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    border: 5px solid green;
+}
+
+.box1 p{
+    position: absolute;
+    overflow: auto;
+    height: 30%;
+    width: 100%;
+    top: 100px;
+}
+
+.box1 a{
+    position: absolute;
+    bottom: 10px;
+    left: 25%;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 4px 10px 4px;
+    border-radius: 10px;
+
+}
+
+.box1 a:hover{
+    background-color: brown;
+    transition: 1s;
+}
+
+.box2{
+    background-color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+   left: 18px;
+   top: 10px;
+}
+
+.box2 img{
+    border: 5px solid gold;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+}
+
+.box2 p{
+    position: absolute;
+    overflow: auto;
+    height: 30%;
+    width: 100%;
+    top: 100px;
+}
+
+.box2 a{
+    position: absolute;
+    bottom: 10px;
+    left: 25%;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 4px 10px 4px;
+    border-radius: 10px;
+
+}
+
+.box2 a:hover{
+    background-color: brown;
+    transition: 1s;
+}
+
+                                    /* testing css start */
+
+.box3{
+    background-color: white;
+    border-radius: 10px;
+
+width: 200px;
+height: 200px;
+position: absolute;
+right: 18px;
+top: 52%;
+}
+
+.box3 img{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+    border: 5px solid green;
+}
+
+.box3 p{
+    position: absolute;
+    overflow: auto;
+    height: 30%;
+    width: 100%;
+    top: 100px;
+}
+
+.box3 a{
+    position: absolute;
+    bottom: 10px;
+    left: 25%;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 4px 10px 4px;
+    border-radius: 10px;
+
+}
+
+.box3 a:hover{
+    background-color: brown;
+    transition: 1s;
+}
+
+.box4{
+    background-color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+   left: 18px;
+   top: 52%;
+}
+
+.box4 img{
+    border: 5px solid gold;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+}
+
+.box4 p{
+    position: absolute;
+    overflow: auto;
+    height: 30%;
+    width: 100%;
+    top: 100px;
+}
+
+.box4 a{
+    position: absolute;
+    bottom: 10px;
+    left: 25%;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 4px 10px 4px;
+    border-radius: 10px;
+
+}
+
+.box4 a:hover{
+    background-color: brown;
+    transition: 1s;
+}
+
+
+/* testing css end */
